@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my first repository.
 <br>
-Author-Prasad Velip
+Author-Prasad (code)
 <!--
 **prasadvelip2002/prasadvelip2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
